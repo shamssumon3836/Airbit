@@ -1,0 +1,229 @@
+
+.col-md-5.ftco-animate.fadeInUp.ftco-animated {
+    margin-left: -82px;
+}
+
+
+span {
+
+    color: white;
+
+}
+
+.ftco-navbar-light {
+    background: transparent !important;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    right: 0;
+    z-index: 3;
+}
+.ftco-navbar-light.scrolled {
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    margin-top: -130px;
+    background: #0b0b0b !important;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    padding: 0 15px;
+}
+
+.container-fluid.hdr{
+  background-image: url("../img/cover.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 918px;
+}
+
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+.hdrcontent{
+	padding-top: 424px;
+}
+
+.pl-2.hdrcontent{
+    font-weight: 700;
+}
+
+
+.button {
+
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+
+
+.button2 {
+  background-color: #8f3faf; 
+  color: white;
+  border-radius: 5px;
+}
+
+.button2:hover {
+  background-color:#70328a;
+  color: white;
+  border-radius: 5px;
+}
+
+.button3 {
+  background-color:#ff007a; 
+  color: white;
+  border-radius: 5px;
+}
+
+
+.button3:hover {
+  background-color:#cc0062;
+  color: white;
+  border-radius: 5px;
+}
+
+
+.button4 {
+  background-color: #8f3faf; 
+  color: white;
+  border-radius: 5px;
+}
+
+
+.button4:hover {
+  background-color:#70328a;
+  color: white;
+  border-radius: 5px;
+}
+
+
+.button5 {
+  background-color:#ff007a; 
+  color: white;
+  border-radius: 5px;
+}
+
+
+.button5:hover {
+  background-color:#cc0062;
+  color: white;
+  border-radius: 5px;
+}
+
+
+
+
+
+.carousel-inner img {
+      width: 20%;
+      height:auto;
+  }
+
+
+
+
+
+
+.fas.fa-arrow-circle-right.mr-3 {
+    font-size: 40px;
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+    margin-left: -75px;
+    margin-bottom: 65px;
+}
+
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+
+.panel-heading.rounded:hover {
+    border-left: 10px solid #ff007a;
+    border-radius: 5px;
+}
+
+
+
+
+
+  .image {
+  position: relative;
+  overflow: hidden;
+  background-color: #000;
+  background-image: url("../img/s7.jpg");
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: 1px solid #000;
+}
+.image span {
+  position: relative;
+  z-index: 1;
+}
+
+.zoom-in::after,
+.zoom-out::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: inherit;
+  background-size: cover;
+  transform-origin: center;
+  transition: transform .4s ease-in-out;
+  cursor: pointer;
+}
+
+.zoom-in:focus::after, .zoom-in:hover::after {
+  transform: scale(1.05);
+}
+
+.zoom-out::after {
+  transform: scale(1.05);
+}
+.zoom-out:focus::after, .zoom-out:hover::after {
+  transform: scale(1);
+}
+
+
+li:hover {
+    transition: 0.3s ease-out;
+    margin-left: 5px;
+}
+
+
+
+

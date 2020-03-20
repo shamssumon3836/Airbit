@@ -1,0 +1,1136 @@
+.shob .pochondo .themes-btn{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.shob .pochondo .rong{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.themes-rong {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: .5s ease;
+}
+
+.shob{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    text-align: center;
+    color:#fff;
+}
+
+
+
+
+
+.shob .pochondo{
+    position:absolute;
+    z-index: 2;
+    overflow: hidden;
+    top: 280px;
+}
+
+.shob .pochondo .rong {
+    float: left;
+    padding: 7px;
+    background: #ffeb3b;    
+    width: 400px;
+    
+    
+}
+
+.shob .pochondo .rong ul li {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: 10px 5px;
+    cursor: pointer;    
+    background: green;
+    
+}
+
+
+.shob .pochondo .themes-btn {
+  float: left;
+  color: black;
+  background: #fff;
+  padding: 22px 23px 23px 23px;  
+  box-shadow:  3px 3px 0 -2px rgba(0,0,0,0.2);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.shob .pochondo .themes-btn:hover{
+    box-shadow:  4px 4px 10px -3px rgba(0,0,0,0.56);
+  
+}
+
+
+.shob .pochondo .rong .theme ul li:nth-child(1),
+.shob .pochondo .rong .text ul li:nth-child(1) {
+  background: #1a1a1a;
+  color: #1c1b1b;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(2),
+.shob .pochondo .rong .text ul li:nth-child(2) {
+  background: white;
+  color: #fff;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(3),
+.shob .pochondo .rong .text ul li:nth-child(3) {
+  background: #0084d6;
+  color: #0084d6;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(4),
+.shob .pochondo .rong .text ul li:nth-child(4) {
+  background: #cf455c;
+  color: #cf455c;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(5),
+.shob .pochondo .rong .text ul li:nth-child(5) {
+  background: #7b1fa2;
+  color: #7b1fa2;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(6),
+.shob .pochondo .rong .text ul li:nth-child(6) {
+  background: #00acc1;
+  color: #00acc1;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(7),
+.shob .pochondo .rong .text ul li:nth-child(7) {
+  background: #43a047;
+  color: #43a047;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(8),
+.shob .pochondo .rong .text ul li:nth-child(8) {
+ background: #009688;
+  color:#009688;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(9),
+.shob .pochondo .rong .text ul li:nth-child(9) {
+  background: #34495e;
+  color: #34495e;
+}
+
+
+
+
+
+
+.shochol {
+    transform: translate(-400px);
+}
+
+
+
+.shob .pochondo .themes-btn{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.shob .pochondo .rong{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.themes-rong {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: .5s ease;
+}
+
+.shob{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    text-align: center;
+    color:#fff;
+}
+
+
+
+
+
+.shob .pochondo{
+    position:absolute;
+    z-index: 2;
+    overflow: hidden;
+    top: 280px;
+}
+
+.shob .pochondo .rong {
+    float: left;
+    padding: 7px;
+    background: #ffeb3b;    
+    width: 400px;
+    
+    
+}
+
+.shob .pochondo .rong ul li {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: 10px 5px;
+    cursor: pointer;    
+    background: green;
+    
+}
+
+
+.shob .pochondo .themes-btn {
+  float: left;
+  color: black;
+  background: #fff;
+  padding: 22px 23px 23px 23px;  
+  box-shadow:  3px 3px 0 -2px rgba(0,0,0,0.2);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.shob .pochondo .themes-btn:hover{
+    box-shadow:  4px 4px 10px -3px rgba(0,0,0,0.56);
+  
+}
+
+
+.shob .pochondo .rong .theme ul li:nth-child(1),
+.shob .pochondo .rong .text ul li:nth-child(1) {
+  background: #1a1a1a;
+  color: #1c1b1b;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(2),
+.shob .pochondo .rong .text ul li:nth-child(2) {
+  background: white;
+  color: #fff;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(3),
+.shob .pochondo .rong .text ul li:nth-child(3) {
+  background: #0084d6;
+  color: #0084d6;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(4),
+.shob .pochondo .rong .text ul li:nth-child(4) {
+  background: #cf455c;
+  color: #cf455c;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(5),
+.shob .pochondo .rong .text ul li:nth-child(5) {
+  background: #7b1fa2;
+  color: #7b1fa2;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(6),
+.shob .pochondo .rong .text ul li:nth-child(6) {
+  background: #00acc1;
+  color: #00acc1;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(7),
+.shob .pochondo .rong .text ul li:nth-child(7) {
+  background: #43a047;
+  color: #43a047;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(8),
+.shob .pochondo .rong .text ul li:nth-child(8) {
+ background: #009688;
+  color:#009688;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(9),
+.shob .pochondo .rong .text ul li:nth-child(9) {
+  background: #34495e;
+  color: #34495e;
+}
+
+
+
+
+
+
+.shochol {
+    transform: translate(-400px);
+}
+
+
+
+.shob .pochondo .themes-btn{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.shob .pochondo .rong{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.themes-rong {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: .5s ease;
+}
+
+.shob{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    text-align: center;
+    color:#fff;
+}
+
+
+
+
+
+.shob .pochondo{
+    position:absolute;
+    z-index: 2;
+    overflow: hidden;
+    top: 280px;
+}
+
+.shob .pochondo .rong {
+    float: left;
+    padding: 7px;
+    background: #ffeb3b;    
+    width: 400px;
+    
+    
+}
+
+.shob .pochondo .rong ul li {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: 10px 5px;
+    cursor: pointer;    
+    background: green;
+    
+}
+
+
+.shob .pochondo .themes-btn {
+  float: left;
+  color: black;
+  background: #fff;
+  padding: 22px 23px 23px 23px;  
+  box-shadow:  3px 3px 0 -2px rgba(0,0,0,0.2);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.shob .pochondo .themes-btn:hover{
+    box-shadow:  4px 4px 10px -3px rgba(0,0,0,0.56);
+  
+}
+
+
+.shob .pochondo .rong .theme ul li:nth-child(1),
+.shob .pochondo .rong .text ul li:nth-child(1) {
+  background: #1a1a1a;
+  color: #1c1b1b;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(2),
+.shob .pochondo .rong .text ul li:nth-child(2) {
+  background: white;
+  color: #fff;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(3),
+.shob .pochondo .rong .text ul li:nth-child(3) {
+  background: #0084d6;
+  color: #0084d6;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(4),
+.shob .pochondo .rong .text ul li:nth-child(4) {
+  background: #cf455c;
+  color: #cf455c;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(5),
+.shob .pochondo .rong .text ul li:nth-child(5) {
+  background: #7b1fa2;
+  color: #7b1fa2;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(6),
+.shob .pochondo .rong .text ul li:nth-child(6) {
+  background: #00acc1;
+  color: #00acc1;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(7),
+.shob .pochondo .rong .text ul li:nth-child(7) {
+  background: #43a047;
+  color: #43a047;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(8),
+.shob .pochondo .rong .text ul li:nth-child(8) {
+ background: #009688;
+  color:#009688;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(9),
+.shob .pochondo .rong .text ul li:nth-child(9) {
+  background: #34495e;
+  color: #34495e;
+}
+
+
+
+
+
+
+.shochol {
+    transform: translate(-400px);
+}
+
+
+
+.shob .pochondo .themes-btn{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.shob .pochondo .rong{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.themes-rong {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: .5s ease;
+}
+
+.shob{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    text-align: center;
+    color:#fff;
+}
+
+
+
+
+
+.shob .pochondo{
+    position:absolute;
+    z-index: 2;
+    overflow: hidden;
+    top: 280px;
+}
+
+.shob .pochondo .rong {
+    float: left;
+    padding: 7px;
+    background: #ffeb3b;    
+    width: 400px;
+    
+    
+}
+
+.shob .pochondo .rong ul li {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: 10px 5px;
+    cursor: pointer;    
+    background: green;
+    
+}
+
+
+.shob .pochondo .themes-btn {
+  float: left;
+  color: black;
+  background: #fff;
+  padding: 22px 23px 23px 23px;  
+  box-shadow:  3px 3px 0 -2px rgba(0,0,0,0.2);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.shob .pochondo .themes-btn:hover{
+    box-shadow:  4px 4px 10px -3px rgba(0,0,0,0.56);
+  
+}
+
+
+.shob .pochondo .rong .theme ul li:nth-child(1),
+.shob .pochondo .rong .text ul li:nth-child(1) {
+  background: #1a1a1a;
+  color: #1c1b1b;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(2),
+.shob .pochondo .rong .text ul li:nth-child(2) {
+  background: white;
+  color: #fff;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(3),
+.shob .pochondo .rong .text ul li:nth-child(3) {
+  background: #0084d6;
+  color: #0084d6;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(4),
+.shob .pochondo .rong .text ul li:nth-child(4) {
+  background: #cf455c;
+  color: #cf455c;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(5),
+.shob .pochondo .rong .text ul li:nth-child(5) {
+  background: #7b1fa2;
+  color: #7b1fa2;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(6),
+.shob .pochondo .rong .text ul li:nth-child(6) {
+  background: #00acc1;
+  color: #00acc1;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(7),
+.shob .pochondo .rong .text ul li:nth-child(7) {
+  background: #43a047;
+  color: #43a047;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(8),
+.shob .pochondo .rong .text ul li:nth-child(8) {
+ background: #009688;
+  color:#009688;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(9),
+.shob .pochondo .rong .text ul li:nth-child(9) {
+  background: #34495e;
+  color: #34495e;
+}
+
+
+
+
+
+
+.shochol {
+    transform: translate(-400px);
+}
+
+
+
+.shob .pochondo .themes-btn{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.shob .pochondo .rong{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.themes-rong {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: .5s ease;
+}
+
+.shob{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    text-align: center;
+    color:#fff;
+}
+
+
+
+
+
+.shob .pochondo{
+    position:absolute;
+    z-index: 2;
+    overflow: hidden;
+    top: 280px;
+}
+
+.shob .pochondo .rong {
+    float: left;
+    padding: 7px;
+    background: #ffeb3b;    
+    width: 400px;
+    
+    
+}
+
+.shob .pochondo .rong ul li {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: 10px 5px;
+    cursor: pointer;    
+    background: green;
+    
+}
+
+
+.shob .pochondo .themes-btn {
+  float: left;
+  color: black;
+  background: #fff;
+  padding: 22px 23px 23px 23px;  
+  box-shadow:  3px 3px 0 -2px rgba(0,0,0,0.2);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.shob .pochondo .themes-btn:hover{
+    box-shadow:  4px 4px 10px -3px rgba(0,0,0,0.56);
+  
+}
+
+
+.shob .pochondo .rong .theme ul li:nth-child(1),
+.shob .pochondo .rong .text ul li:nth-child(1) {
+  background: #1a1a1a;
+  color: #1c1b1b;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(2),
+.shob .pochondo .rong .text ul li:nth-child(2) {
+  background: white;
+  color: #fff;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(3),
+.shob .pochondo .rong .text ul li:nth-child(3) {
+  background: #0084d6;
+  color: #0084d6;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(4),
+.shob .pochondo .rong .text ul li:nth-child(4) {
+  background: #cf455c;
+  color: #cf455c;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(5),
+.shob .pochondo .rong .text ul li:nth-child(5) {
+  background: #7b1fa2;
+  color: #7b1fa2;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(6),
+.shob .pochondo .rong .text ul li:nth-child(6) {
+  background: #00acc1;
+  color: #00acc1;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(7),
+.shob .pochondo .rong .text ul li:nth-child(7) {
+  background: #43a047;
+  color: #43a047;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(8),
+.shob .pochondo .rong .text ul li:nth-child(8) {
+ background: #009688;
+  color:#009688;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(9),
+.shob .pochondo .rong .text ul li:nth-child(9) {
+  background: #34495e;
+  color: #34495e;
+}
+
+
+
+
+
+
+.shochol {
+    transform: translate(-400px);
+}
+
+
+
+.shob .pochondo .themes-btn{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.shob .pochondo .rong{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.themes-rong {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: .5s ease;
+}
+
+.shob{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    text-align: center;
+    color:#fff;
+}
+
+
+
+
+
+.shob .pochondo{
+    position:absolute;
+    z-index: 2;
+    overflow: hidden;
+    top: 280px;
+}
+
+.shob .pochondo .rong {
+    float: left;
+    padding: 7px;
+    background: #ffeb3b;    
+    width: 400px;
+    
+    
+}
+
+.shob .pochondo .rong ul li {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: 10px 5px;
+    cursor: pointer;    
+    background: green;
+    
+}
+
+
+.shob .pochondo .themes-btn {
+  float: left;
+  color: black;
+  background: #fff;
+  padding: 22px 23px 23px 23px;  
+  box-shadow:  3px 3px 0 -2px rgba(0,0,0,0.2);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.shob .pochondo .themes-btn:hover{
+    box-shadow:  4px 4px 10px -3px rgba(0,0,0,0.56);
+  
+}
+
+
+.shob .pochondo .rong .theme ul li:nth-child(1),
+.shob .pochondo .rong .text ul li:nth-child(1) {
+  background: #1a1a1a;
+  color: #1c1b1b;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(2),
+.shob .pochondo .rong .text ul li:nth-child(2) {
+  background: white;
+  color: #fff;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(3),
+.shob .pochondo .rong .text ul li:nth-child(3) {
+  background: #0084d6;
+  color: #0084d6;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(4),
+.shob .pochondo .rong .text ul li:nth-child(4) {
+  background: #cf455c;
+  color: #cf455c;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(5),
+.shob .pochondo .rong .text ul li:nth-child(5) {
+  background: #7b1fa2;
+  color: #7b1fa2;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(6),
+.shob .pochondo .rong .text ul li:nth-child(6) {
+  background: #00acc1;
+  color: #00acc1;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(7),
+.shob .pochondo .rong .text ul li:nth-child(7) {
+  background: #43a047;
+  color: #43a047;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(8),
+.shob .pochondo .rong .text ul li:nth-child(8) {
+ background: #009688;
+  color:#009688;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(9),
+.shob .pochondo .rong .text ul li:nth-child(9) {
+  background: #34495e;
+  color: #34495e;
+}
+
+
+
+
+
+
+.shochol {
+    transform: translate(-400px);
+}
+
+
+
+.shob .pochondo .themes-btn{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.shob .pochondo .rong{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.themes-rong {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: .5s ease;
+}
+
+.shob{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    text-align: center;
+    color:#fff;
+}
+
+
+
+
+
+.shob .pochondo{
+    position:absolute;
+    z-index: 2;
+    overflow: hidden;
+    top: 280px;
+}
+
+.shob .pochondo .rong {
+    float: left;
+    padding: 7px;
+    background: #ffeb3b;    
+    width: 400px;
+    
+    
+}
+
+.shob .pochondo .rong ul li {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: 10px 5px;
+    cursor: pointer;    
+    background: green;
+    
+}
+
+
+.shob .pochondo .themes-btn {
+  float: left;
+  color: black;
+  background: #fff;
+  padding: 22px 23px 23px 23px;  
+  box-shadow:  3px 3px 0 -2px rgba(0,0,0,0.2);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.shob .pochondo .themes-btn:hover{
+    box-shadow:  4px 4px 10px -3px rgba(0,0,0,0.56);
+  
+}
+
+
+.shob .pochondo .rong .theme ul li:nth-child(1),
+.shob .pochondo .rong .text ul li:nth-child(1) {
+  background: #1a1a1a;
+  color: #1c1b1b;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(2),
+.shob .pochondo .rong .text ul li:nth-child(2) {
+  background: white;
+  color: #fff;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(3),
+.shob .pochondo .rong .text ul li:nth-child(3) {
+  background: #0084d6;
+  color: #0084d6;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(4),
+.shob .pochondo .rong .text ul li:nth-child(4) {
+  background: #cf455c;
+  color: #cf455c;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(5),
+.shob .pochondo .rong .text ul li:nth-child(5) {
+  background: #7b1fa2;
+  color: #7b1fa2;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(6),
+.shob .pochondo .rong .text ul li:nth-child(6) {
+  background: #00acc1;
+  color: #00acc1;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(7),
+.shob .pochondo .rong .text ul li:nth-child(7) {
+  background: #43a047;
+  color: #43a047;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(8),
+.shob .pochondo .rong .text ul li:nth-child(8) {
+ background: #009688;
+  color:#009688;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(9),
+.shob .pochondo .rong .text ul li:nth-child(9) {
+  background: #34495e;
+  color: #34495e;
+}
+
+
+
+
+
+
+.shochol {
+    transform: translate(-400px);
+}
+
+
+
+.shob .pochondo .themes-btn{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.shob .pochondo .rong{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    transition: .5s ease;
+}
+
+.themes-rong {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: .5s ease;
+}
+
+.shob{
+    position: absolute;
+    width: 35%;
+    /*! height: 68%; */
+    z-index: 1;
+    text-align: center;
+    color:#fff;
+}
+
+
+
+
+
+.shob .pochondo{
+    position:fixed;
+    z-index: 2;
+    overflow: hidden;
+    top: 280px;
+}
+
+.shob .pochondo .rong {
+    float: left;
+    padding: 7px;
+    background: #ffeb3b;    
+    width: 400px;
+    
+    
+}
+
+.shob .pochondo .rong ul li {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    margin: 10px 5px;
+    cursor: pointer;    
+    background: green;
+    
+}
+
+
+.shob .pochondo .themes-btn {
+  float: left;
+  color: black;
+  background: #fff;
+  padding: 18px 23px 23px 23px;  
+  box-shadow:  3px 3px 0 -2px rgba(0,0,0,0.2);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.shob .pochondo .themes-btn:hover{
+    box-shadow:  4px 4px 10px -3px rgba(0,0,0,0.56);
+  
+}
+
+
+.shob .pochondo .rong .theme ul li:nth-child(1),
+.shob .pochondo .rong .text ul li:nth-child(1) {
+  background: #1a1a1a;
+  color: #1c1b1b;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(2),
+.shob .pochondo .rong .text ul li:nth-child(2) {
+  background: white;
+  color: #fff;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(3),
+.shob .pochondo .rong .text ul li:nth-child(3) {
+  background: #0084d6;
+  color: #0084d6;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(4),
+.shob .pochondo .rong .text ul li:nth-child(4) {
+  background: #cf455c;
+  color: #cf455c;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(5),
+.shob .pochondo .rong .text ul li:nth-child(5) {
+  background: #7b1fa2;
+  color: #7b1fa2;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(6),
+.shob .pochondo .rong .text ul li:nth-child(6) {
+  background: #00acc1;
+  color: #00acc1;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(7),
+.shob .pochondo .rong .text ul li:nth-child(7) {
+  background: #43a047;
+  color: #43a047;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(8),
+.shob .pochondo .rong .text ul li:nth-child(8) {
+ background: #009688;
+  color:#009688;
+}
+
+.shob .pochondo .rong .theme ul li:nth-child(9),
+.shob .pochondo .rong .text ul li:nth-child(9) {
+  background: #34495e;
+  color: #34495e;
+}
+
+
+
+
+
+
+.shochol {
+    transform: translate(-400px);
+}
+
+
+
